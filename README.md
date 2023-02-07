@@ -2,7 +2,7 @@
 
 Hotel Revenue Dashboard was created to answer 3 stake holder questions. 
 
-#Questions: 
+# Questions
 •	“Is our hotel revenue growing by year?” 
 •	“Should we increase our parking lot size?”
 •	“What trends can we see in the data”
