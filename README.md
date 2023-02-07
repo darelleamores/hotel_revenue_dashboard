@@ -14,7 +14,6 @@ Hotel Revenue Dashboard was created to answer 3 stake holder questions.
 4.	Visualize 
 5.	Summarize Findings 
 
-#SQL Query to prepare for POWER BI 
 
 
 ![image](https://user-images.githubusercontent.com/50031745/217329692-d091b686-db65-44f8-a6fe-957db9d35564.png)
